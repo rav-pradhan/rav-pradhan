@@ -1,5 +1,5 @@
 ### 👋
 
 - 😄 he/him
-- 🔭 Tech Lead (temporary promotion) / Senior Software Engineer at the [Office for National Statistics](https://www.ons.gov.uk) based in Cardiff, Wales
-- 🌱 Currently focusing my learning on: React Native, domain-driven design, AWS
+- 🔭 Senior Engineer for [Made Tech]([https://www.ons.gov.uk](https://www.madetech.com/)) based in Cardiff, Wales
+- 🌱 Currently focusing my learning on: Cybersecurity, Terraform, AWS, Ruby
